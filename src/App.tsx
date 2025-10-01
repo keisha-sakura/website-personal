@@ -6,16 +6,6 @@ type Project = {
   link?: string;
 };
 
-const projects: Project[] = [
-  {
-    id: 1,
-    title: "Portfolio Website",
-    description: "Personal portfolio built with React and TypeScript.",
-    tech: ["React", "TypeScript", "CSS"],
-    link: "#"
-  }
-];
-
 import photo from "./assets/photo.JPG";
 import photoAnchor from "./assets/PhotoAnchor.png";
 import photoBunga from "./assets/photoBunga.jpg";
